@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanichh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 
-Связаться со мной
+### Связаться со мной
 <a href="https://t.me/joinchat/vanichh">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
