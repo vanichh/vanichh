@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет 👋, меня зовут Иван
+#### Я занимаю Frontend разработкойуже несколько лет
+МНе нравится занимается реализацией интерефейсов, красиво версать и писать интересную и сложную логику
+Основные мои скиллы: REACT / JS / HTML / CSS
 
-<!--
-**vanichh/vanichh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vanichh)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanichh&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vanichh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vanichh)  
+
+![Profile views](https://gpvc.arturio.dev/vanichh)  
