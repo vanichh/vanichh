@@ -15,9 +15,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vanichh)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanichh)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanichh&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vanichh)  
+
+<p align="center">
+<a href="https://github.com/vanichh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanichh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vanichh&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/vanichh)  
