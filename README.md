@@ -8,8 +8,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanichh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vanichh)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vanichh)  
 
 ![Profile views](https://gpvc.arturio.dev/vanichh)  
